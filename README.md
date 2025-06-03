@@ -2,7 +2,7 @@
 
 Este repositório contém os arquivos e exercícios desenvolvidos durante o curso de aprendizado em testes End-to-End (E2E) utilizando o framework Cypress. O objetivo é demonstrar, na prática, como aplicar testes automatizados em aplicações web modernas.
 
-![tests results](README\tests.png)
+![tests results] (README/tests.png)
 
 ## 🚀 Tecnologias Utilizadas
 - Cypress – Framework de testes E2E
