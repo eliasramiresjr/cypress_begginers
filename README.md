@@ -28,10 +28,10 @@ Este repositório contém os arquivos e exercícios desenvolvidos durante o curs
 
 ## 📚 Boas práticas em testes automatizados
 
-Interação com elementos da DOM
+- Interação com elementos da DOM
 
-Validação de rotas, estados e respostas da API
+- Validação de rotas, estados e respostas da API
 
-Uso de fixtures e interceptação de requisições
+- Uso de fixtures e interceptação de requisições
 
-Execução dos testes em CI/CD (teórico ou prático, conforme o curso)
+- Execução dos testes em CI/CD (teórico ou prático, conforme o curso)
