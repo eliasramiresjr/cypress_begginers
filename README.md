@@ -13,7 +13,7 @@ Este repositório contém os arquivos e exercícios desenvolvidos durante o curs
 
 ## 🛠️ Instalação e Uso
 1. Clone o repositório:
-- git clone https://github.com/seu-usuario/nome-do-repositorio.git
+- git clone https://github.com/eliasramiresjr/cypress_begginers.git
 
 - cd nome-do-repositorio
 
